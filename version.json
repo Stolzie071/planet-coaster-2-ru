@@ -1,14 +1,21 @@
 {
-  "translationVersion": "1.02",
+  "translationVersion": "1.06",
   "gameVersion": "1.12.2",
   "steamBuildId": "26255360",
   "platform": "Windows / Steam",
   "requiredGameLanguage": "English",
-  "checkedOn": "2026-10-31",
-  "tag": "v1.02",
+  "checkedOn": "2026-11-01",
+  "tag": "v1.06",
   "latestReleaseUrl": "https://github.com/Stolzie071/planet-coaster-2-ru/releases/latest",
-  "archiveName": "Planet_Coaster_2_RU_1.02_Game_1.12.2.zip",
-  "archiveUrl": "https://github.com/Stolzie071/planet-coaster-2-ru/releases/download/v1.02/Planet_Coaster_2_RU_1.02_Game_1.12.2.zip",
-  "archiveSha256": "27856ba12194d486f0839ca3d350d73ff41f9881c1ac29e96a63d27431bc9fd0",
-  "payloadFiles": 42
+  "archiveName": "Planet_Coaster_2_RU_1.06_Game_1.12.2.zip",
+  "archiveUrl": "https://github.com/Stolzie071/planet-coaster-2-ru/releases/download/v1.06/Planet_Coaster_2_RU_1.06_Game_1.12.2.zip",
+  "archiveSha256": "d8cee2940674cf9814b07fb267f39fa3a1af44e66d49aaea64fbd2bcba8ed139",
+  "archiveBytes": 28734865,
+  "payloadFiles": 49,
+  "localisationFiles": 42,
+  "parkFiles": 7,
+  "installFolders": [
+    "Win64",
+    "Parks"
+  ]
 }
