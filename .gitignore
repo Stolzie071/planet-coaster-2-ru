@@ -1,0 +1,4 @@
+# The ready-to-install archive belongs in Releases.
+*.zip
+*.ovl
+/Win64/
